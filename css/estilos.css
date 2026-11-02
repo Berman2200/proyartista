@@ -1,0 +1,179 @@
+header a{
+    font-size: 20px;
+    color: rgb(159, 139, 93);
+}
+body{
+    background-color: #eeece4;
+}
+.cabecera{
+    justify-content: center;
+    display: flex;
+    background-color: beige;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    gap: 30px;
+}
+.cabeza{
+    text-align: center;
+    display: flex;
+}
+.col1{
+    margin: 50px;
+    width: 60%;
+    height: 200px;
+}
+.col2{
+    width: 40%;
+    height: 200px;
+}
+.col2 img{
+    width: 50%;
+    height: 250px;
+}
+.madre{
+    display: flex;
+    margin: 30px;
+    padding: 35px;
+    gap: 30px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+.columna_izquierda{
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    gap: 5px;
+    width: 70%;
+}
+.columna_derecha{
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    gap: 5px;
+    width: 30%;
+}
+.login{
+    background-color: #ded19f9c; 
+    display: flex;
+    border-radius: 5px;
+}
+.perfil img{
+    text-align: center;
+    width: 280px;
+    height: 280px;
+    border-radius: 100%;
+}
+.perfil1 img{
+    text-align: center;
+    width: 280px;
+    height: 280px;
+    border-radius: 5px
+}
+.galeria{
+    border-radius: 5px;
+    background-color: #ded19f9c;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+.tarjeta{
+    color: rgb(158, 131, 95);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: antiquewhite;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    padding: 5px;
+}
+.sobre{
+    border-radius: 5px;
+    background-color: #ded19f9c;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+.tarjeta1{
+    padding: 5px;
+    justify-content: center;
+    color: rgb(158, 131, 95);
+    background-color: antiquewhite;
+    border-radius: 8px;
+    display: flex;
+    width: 280px;
+}
+.sobre_body{
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgba(239, 239, 217, 0.852);
+}
+.tabla{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(192, 192, 145);
+    border-radius: 5px;
+    margin: 5px;
+}
+.comprar{
+    background-color: antiquewhite;
+    border-radius: 5px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
+.tarjeta2{
+    display: flex;
+    background-color: bisque;
+    flex-direction: column;
+    width: 280px;
+
+}
+td{
+    border-radius: 5px;
+    background-color: rgba(230, 232, 203, 0.576);
+    padding: 5px;
+}
+section{
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+    background-color: rgba(214, 218, 137, 0.742);
+    width: 50%;
+    height: 50px;
+}
+img{
+    width: 50%;
+    height: 200px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    color: rgb(159, 139, 93);
+}
+*{
+    text-align: center;
+}
+footer{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 5px;
+    background-color: rgba(207, 207, 155, 0.642);
+}
+h2{
+    font-family: fantasy;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
